@@ -21,7 +21,7 @@ header h1 {
     color: #d9dcd6;
 }
 
-
+/*nav styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,7 +68,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* 3 row section styles */
 .search-engine-optimization{
     margin-bottom: 20px;
     padding: 50px;
@@ -97,7 +97,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img
+ {
     max-height: 200px;
 }
 
